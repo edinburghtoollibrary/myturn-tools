@@ -1,6 +1,6 @@
 # Axes and Mattocks
 
-[Home](index.md)
+[Home](README.md)
 
 ## Axes
 

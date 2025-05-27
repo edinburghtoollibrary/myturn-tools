@@ -1,6 +1,6 @@
 # Power Sanders
 
-[Home](index.md)
+[Home](README.md)
 
 ## Detail / Mouse Sanders
 

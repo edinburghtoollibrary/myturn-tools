@@ -1,6 +1,6 @@
 # Power Saws
 
-[Home](index.md)
+[Home](README.md)
 
 ## Circular blades
 

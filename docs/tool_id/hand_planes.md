@@ -1,6 +1,6 @@
 # Hand Planes
 
-[Home](index.md)
+[Home](README.md)
 
 ## The basic 'plane'
 

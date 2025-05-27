@@ -1,6 +1,6 @@
 # Hammers and Mallets
 
-[Home](index.md)
+[Home](README.md)
 
 ## Claw, Framing & Rip Hammers
 

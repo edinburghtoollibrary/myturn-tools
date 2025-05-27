@@ -1,6 +1,6 @@
 # Trowels
 
-[Home](index.md)
+[Home](README.md)
 
 ![garden.jpg](img/trowels/garden.jpg)
 

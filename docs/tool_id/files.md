@@ -1,6 +1,6 @@
 # Files
 
-[Home](index.md)
+[Home](README.md)
 
 ## Files
 

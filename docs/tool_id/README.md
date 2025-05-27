@@ -1,4 +1,4 @@
-# Visual guides
+# Visual guide to identifying tools
 
 * Hand tools
   * [Axes, Pickaxes and Mattocks](axes.md)
